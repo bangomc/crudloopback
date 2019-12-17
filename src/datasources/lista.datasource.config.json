@@ -1,0 +1,10 @@
+{
+  "name": "lista",
+  "connector": "mysql",
+  "url": "mysql://dbuser:masterkey@localhost/listadb",
+  "host": "localhost",
+  "port": 3306,
+  "user": "dbuser",
+  "password": "masterkey",
+  "database": "listadb"
+}
